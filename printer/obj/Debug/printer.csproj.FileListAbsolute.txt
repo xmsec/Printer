@@ -1,0 +1,13 @@
+C:\Users\xiaomo\Desktop\WMI\2016结题验收工作\printer\printer\bin\Debug\printer.exe.config
+C:\Users\xiaomo\Desktop\WMI\2016结题验收工作\printer\printer\bin\Debug\printer.exe
+C:\Users\xiaomo\Desktop\WMI\2016结题验收工作\printer\printer\bin\Debug\printer.pdb
+C:\Users\xiaomo\Desktop\WMI\2016结题验收工作\printer\printer\bin\Debug\PacketDotNet.dll
+C:\Users\xiaomo\Desktop\WMI\2016结题验收工作\printer\printer\bin\Debug\SharpPcap.dll
+C:\Users\xiaomo\Desktop\WMI\2016结题验收工作\printer\printer\bin\Debug\PacketDotNet.xml
+C:\Users\xiaomo\Desktop\WMI\2016结题验收工作\printer\printer\bin\Debug\SharpPcap.xml
+C:\Users\xiaomo\Desktop\WMI\2016结题验收工作\printer\printer\obj\Debug\printer.csprojResolveAssemblyReference.cache
+C:\Users\xiaomo\Desktop\WMI\2016结题验收工作\printer\printer\obj\Debug\printer.Form1.resources
+C:\Users\xiaomo\Desktop\WMI\2016结题验收工作\printer\printer\obj\Debug\printer.Properties.Resources.resources
+C:\Users\xiaomo\Desktop\WMI\2016结题验收工作\printer\printer\obj\Debug\printer.csproj.GenerateResource.Cache
+C:\Users\xiaomo\Desktop\WMI\2016结题验收工作\printer\printer\obj\Debug\printer.exe
+C:\Users\xiaomo\Desktop\WMI\2016结题验收工作\printer\printer\obj\Debug\printer.pdb
